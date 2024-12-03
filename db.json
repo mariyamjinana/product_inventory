@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "Bag",
+      "category": "Stationery",
+      "price": "500",
+      "quantity": "2",
+      "description": "backpack black colour",
+      "id": 1
+    }
+  ]
+}
